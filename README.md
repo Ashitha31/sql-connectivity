@@ -1,5 +1,8 @@
 # NodeJS with MySQL 
  
+ npm init
+ npm i express nodemon mysql
+ 
 ### Create Database based on your domain in MySQL with the following conditions
 
 1. Table should have minimum 6 entities with primary key
